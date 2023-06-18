@@ -1,0 +1,5 @@
+hrs = input("Enter Hours:")
+rate = input('rate per hour:')
+sal = float(hrs)*float(rate)
+print('sal is:', sal)
+exit()
